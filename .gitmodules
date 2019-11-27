@@ -1,0 +1,12 @@
+[submodule "DotGameArt"]
+	path = DotGameArt
+	url = https://github.com/liyubin724/DotGameArt.git
+[submodule "DotGameScripts"]
+	path = DotGameScripts
+	url = https://github.com/liyubin724/DotGameScripts.git
+[submodule "DotGameTools"]
+	path = DotGameTools
+	url = https://github.com/liyubin724/DotGameTools.git
+[submodule "DotGameClient"]
+	path = DotGameClient
+	url = https://github.com/liyubin724/DotGameClient.git
