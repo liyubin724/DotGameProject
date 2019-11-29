@@ -10,3 +10,12 @@
 [submodule "DotGameClient"]
 	path = DotGameClient
 	url = https://github.com/liyubin724/DotGameClient.git
+[submodule "ThirdPartProj/PBC"]
+	path = ThirdPartProj/PBC
+	url = https://github.com/cloudwu/pbc.git
+[submodule "ThirdPartProj/xlua"]
+	path = ThirdPartProj/xlua
+	url = https://github.com/Tencent/xLua.git
+[submodule "ThirdPartProj/rapidjson"]
+	path = ThirdPartProj/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
