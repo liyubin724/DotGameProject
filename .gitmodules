@@ -19,3 +19,6 @@
 [submodule "ThirdPartProj/rapidjson"]
 	path = ThirdPartProj/rapidjson
 	url = https://github.com/Tencent/rapidjson.git
+[submodule "ThirdPartProj/ReorderableList"]
+	path = ThirdPartProj/ReorderableList
+	url = https://github.com/rotorz/unity3d-reorderable-list
