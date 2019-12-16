@@ -22,3 +22,6 @@
 [submodule "ThirdPartProj/NPOI"]
 	path = ThirdPartProj/NPOI
 	url = https://github.com/dotnetcore/NPOI.git
+[submodule "ThirdPartProj/Colorful.Console"]
+	path = ThirdPartProj/Colorful.Console
+	url = https://github.com/tomakita/Colorful.Console.git
