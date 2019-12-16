@@ -16,12 +16,12 @@
 [submodule "ThirdPartProj/xlua"]
 	path = ThirdPartProj/xlua
 	url = https://github.com/Tencent/xLua.git
-[submodule "ThirdPartProj/rapidjson"]
-	path = ThirdPartProj/rapidjson
-	url = https://github.com/Tencent/rapidjson.git
 [submodule "ThirdPartProj/NPOI"]
 	path = ThirdPartProj/NPOI
 	url = https://github.com/dotnetcore/NPOI.git
 [submodule "ThirdPartProj/Colorful.Console"]
 	path = ThirdPartProj/Colorful.Console
 	url = https://github.com/tomakita/Colorful.Console.git
+[submodule "ThirdPartProj/lua-rapidjson"]
+	path = ThirdPartProj/lua-rapidjson
+	url = https://github.com/miloyip/lua-rapidjson.git
