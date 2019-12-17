@@ -10,6 +10,9 @@
 [submodule "DotGameClient"]
 	path = DotGameClient
 	url = https://github.com/liyubin724/DotGameClient.git
+[submodule "DotGameDoc"]
+	path = DotGameDoc
+	url = https://github.com/liyubin724/DotGameDoc.git
 [submodule "ThirdPartProj/xlua"]
 	path = ThirdPartProj/xlua
 	url = https://github.com/Tencent/xLua.git
