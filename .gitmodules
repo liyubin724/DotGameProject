@@ -28,3 +28,6 @@
 [submodule "ThirdPartProj/lua-protobuf"]
 	path = ThirdPartProj/lua-protobuf
 	url = https://github.com/starwing/lua-protobuf.git
+[submodule "ThirdPartProj/finite-state-machine"]
+	path = ThirdPartProj/finite-state-machine
+	url = https://github.com/bitcraftCoLtd/finite-state-machine.git
