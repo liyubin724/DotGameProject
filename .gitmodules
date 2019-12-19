@@ -31,3 +31,6 @@
 [submodule "ThirdPartProj/finite-state-machine"]
 	path = ThirdPartProj/finite-state-machine
 	url = https://github.com/bitcraftCoLtd/finite-state-machine.git
+[submodule "ThirdPartProj/logging-log4net"]
+	path = ThirdPartProj/logging-log4net
+	url = https://github.com/apache/logging-log4net.git
