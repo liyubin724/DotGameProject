@@ -34,3 +34,6 @@
 [submodule "ThirdPartProj/logging-log4net"]
 	path = ThirdPartProj/logging-log4net
 	url = https://github.com/apache/logging-log4net.git
+[submodule "ThirdPartProj/LuaProfiler-For-Unity"]
+	path = ThirdPartProj/LuaProfiler-For-Unity
+	url = https://github.com/ElPsyCongree/LuaProfiler-For-Unity.git
