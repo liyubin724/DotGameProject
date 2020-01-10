@@ -37,3 +37,6 @@
 [submodule "ThirdPartProj/LuaProfiler-For-Unity"]
 	path = ThirdPartProj/LuaProfiler-For-Unity
 	url = https://github.com/ElPsyCongree/LuaProfiler-For-Unity.git
+[submodule "ThirdPartProj/graphy"]
+	path = ThirdPartProj/graphy
+	url = https://github.com/Tayx94/graphy.git
