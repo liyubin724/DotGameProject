@@ -40,3 +40,6 @@
 [submodule "ThirdPartProj/graphy"]
 	path = ThirdPartProj/graphy
 	url = https://github.com/Tayx94/graphy.git
+[submodule "DotGameConfig"]
+	path = DotGameConfig
+	url = https://github.com/liyubin724/DotGameConfig.git
