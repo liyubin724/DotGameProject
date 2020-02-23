@@ -43,3 +43,6 @@
 [submodule "ThirdPartProj/LocalPreferences"]
 	path = ThirdPartProj/LocalPreferences
 	url = https://github.com/Neonagee/LocalPreferences.git
+[submodule "DotGameConfig"]
+	path = DotGameConfig
+	url = https://github.com/liyubin724/DotGameConfig.git
