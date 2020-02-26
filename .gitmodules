@@ -46,3 +46,9 @@
 [submodule "DotGameConfig"]
 	path = DotGameConfig
 	url = https://github.com/liyubin724/DotGameConfig.git
+[submodule "ThirdPartProj/CyoEncode.NET"]
+	path = ThirdPartProj/CyoEncode.NET
+	url = https://github.com/calzakk/CyoEncode.NET.git
+[submodule "ThirdPartProj/Snappy.Sharp"]
+	path = ThirdPartProj/Snappy.Sharp
+	url = https://github.com/jeffesp/Snappy.Sharp.git
