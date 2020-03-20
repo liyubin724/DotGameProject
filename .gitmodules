@@ -52,3 +52,6 @@
 [submodule "ThirdPartProj/Snappy.Sharp"]
 	path = ThirdPartProj/Snappy.Sharp
 	url = https://github.com/jeffesp/Snappy.Sharp.git
+[submodule "ThirdPartProj/commandline"]
+	path = ThirdPartProj/commandline
+	url = https://github.com/commandlineparser/commandline.git
