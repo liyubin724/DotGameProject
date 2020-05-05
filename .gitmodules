@@ -55,3 +55,6 @@
 [submodule "ThirdPartProj/commandline"]
 	path = ThirdPartProj/commandline
 	url = https://github.com/commandlineparser/commandline.git
+[submodule "ThirdPartProj/ReflectionMagic"]
+	path = ThirdPartProj/ReflectionMagic
+	url = https://github.com/ReflectionMagic/ReflectionMagic.git
